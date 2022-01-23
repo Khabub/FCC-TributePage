@@ -1,0 +1,88 @@
+#main {
+    background-color: rgb(238, 233, 233);
+}
+
+#title {
+    text-align: center;
+    padding-top: 1em;
+    font-size: 50px;
+    color:rgb(153, 83, 83);
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+
+.head-text {
+    text-align: center;
+    font-size: 20px;
+}
+
+.year {
+    font-weight: bold;
+}
+
+#img-div {    
+    background-color: white;
+}
+
+#img-caption {
+    font-size: 17px;
+    text-align: center;
+    padding: 0.5em 0 1em;
+    margin-bottom: 3em;
+}
+
+#image {
+    display: block;  
+    margin: auto;
+    max-width: 100%; 
+    height: auto;   
+}
+
+h3 {
+    text-align: center;
+    padding-top: 1em;
+    margin: 0;
+    font-size: 25px;
+}
+
+#tribute-info {
+    max-width: 800px;
+    height: auto;
+    margin: auto;   
+}
+
+li {
+    font-size: 20px;
+}
+
+li::marker {
+    line-height: 3em;
+    color: rgb(119, 101, 63);
+}
+
+.cite {
+    text-align: left;
+    font-size: 20px;
+    max-width: 750px;
+    height: auto;
+    margin: auto;
+    padding: 1.5em;
+}
+
+#endline {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 1em;    
+}
+
+#tribute-link {
+    text-decoration: none;
+}
+
+#tribute-link:hover {
+    color:chocolate;
+}
+
+hr {
+    max-width: 950px;
+}
